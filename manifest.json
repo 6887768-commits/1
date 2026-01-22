@@ -1,0 +1,18 @@
+
+{
+  "short_name": "UserHub",
+  "name": "User Hub Pro - Cloud Management",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "description": "Professional enterprise user management system."
+}

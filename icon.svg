@@ -1,0 +1,8 @@
+
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 白色背景 -->
+  <rect width="512" height="512" rx="100" fill="white"/>
+  <!-- 品牌标识 U -->
+  <rect x="128" y="128" width="256" height="256" rx="40" fill="#4f46e5"/>
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold" font-size="160">U</text>
+</svg>
